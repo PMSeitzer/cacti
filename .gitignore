@@ -1,0 +1,14 @@
+#executable, .o files
+obj_dbg/**
+cacti
+
+#qt-specific things
+cacti_7.cflags
+cacti_7.config
+cacti_7.creator
+cacti_7.creator.user
+cacti_7.creator.user
+cacti_7.cxxflags
+cacti_7.files
+cacti_7.includes
+
